@@ -26,3 +26,6 @@ replay_pid*
 #IDEA
 *.idea
 *.iml
+
+#Custom settings
+*token*
